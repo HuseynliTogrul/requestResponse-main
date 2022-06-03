@@ -1,7 +1,7 @@
 const express = require('express')
 const { json } = require('express/lib/response')
 
-const app =express()
+const app =express() 
 
 const product =[
 {id:"1", name:"computer",price:"4000", stock:"11"},
